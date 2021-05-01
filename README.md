@@ -2,7 +2,7 @@
 
 # Cyclist Analysis
 check out the dashboard [here](https://public.tableau.com/views/cyclist_analysis_16198909045680/cyclist_analysis_dashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
-![cyclist_dashboard]('github link plus name')
+![sample](https://github.com/acsours/tableau_analysis/blob/main/cyclist_dashboard.png?raw=true)
 
 The data set you have been given is on motor vehicle accidents in New York city.
 

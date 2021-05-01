@@ -31,7 +31,6 @@ Are there any possible problems or issues with these visualizations?
 
 This dataset describes sales of a superstore.
 Check out the dashboard [here](https://public.tableau.com/shared/83PZFNTSB?:display_count=y&:origin=viz_share_link)
-![sample](https://public.tableau.com/views/cyclist_analysis_16198909045680/cyclist_analysis_dashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 ![sample](https://github.com/acsours/tableau_analysis/blob/main/sales_preview.png?raw=true)
 
 * California and New York have the most sales of any US States
